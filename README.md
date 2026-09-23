@@ -20,5 +20,7 @@ Run the method:
 ## Data 
 
 Data can be download from: https://entrepot.recherche.data.gouv.fr/dataset.xhtml?persistentId=doi:10.57745/XCVQSG
+
 Input folder name: face2
+
 Output folders name: SIFT and Results
